@@ -1,0 +1,82 @@
+C:\Users\Administrator\Desktop\Program Dev\Gen2.0_Input_Upload single code PCM\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.exe.config
+C:\Users\Administrator\Desktop\Program Dev\Gen2.0_Input_Upload single code PCM\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.exe
+C:\Users\Administrator\Desktop\Program Dev\Gen2.0_Input_Upload single code PCM\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.pdb
+C:\Users\Administrator\Desktop\Program Dev\Gen2.0_Input_Upload single code PCM\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Program Dev\Gen2.0_Input_Upload single code PCM\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2._0_Input_Upload_single_code_PCM.Form1.resources
+C:\Users\Administrator\Desktop\Program Dev\Gen2.0_Input_Upload single code PCM\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2._0_Input_Upload_single_code_PCM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Program Dev\Gen2.0_Input_Upload single code PCM\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Program Dev\Gen2.0_Input_Upload single code PCM\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.exe
+C:\Users\Administrator\Desktop\Program Dev\Gen2.0_Input_Upload single code PCM\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.pdb
+C:\Users\Administrator\Desktop\Program Dev\Gen2.0_Input_Upload single code PCM - Copy\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.exe.config
+C:\Users\Administrator\Desktop\Program Dev\Gen2.0_Input_Upload single code PCM - Copy\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.exe
+C:\Users\Administrator\Desktop\Program Dev\Gen2.0_Input_Upload single code PCM - Copy\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.pdb
+C:\Users\Administrator\Desktop\Program Dev\Gen2.0_Input_Upload single code PCM - Copy\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.exe
+C:\Users\Administrator\Desktop\Program Dev\Gen2.0_Input_Upload single code PCM - Copy\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.pdb
+C:\Users\Administrator\Desktop\Program Dev\Gen2.0_Input_Upload single code PCM - Copy\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Program Dev\Gen2.0_Input_Upload single code PCM - Copy\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2._0_Input_Upload_single_code_PCM.Form1.resources
+C:\Users\Administrator\Desktop\Program Dev\Gen2.0_Input_Upload single code PCM - Copy\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2._0_Input_Upload_single_code_PCM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Program Dev\Gen2.0_Input_Upload single code PCM - Copy\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.exe.config
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.exe
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.pdb
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.exe
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.pdb
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2._0_Input_Upload_single_code_PCM.Form1.resources
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2._0_Input_Upload_single_code_PCM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.csprojResolveAssemblyReference.cache
+D:\Toan\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.exe.config
+D:\Toan\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.exe
+D:\Toan\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.pdb
+D:\Toan\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.exe
+D:\Toan\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.pdb
+D:\Toan\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.csprojResolveAssemblyReference.cache
+D:\Toan\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2._0_Input_Upload_single_code_PCM.Form1.resources
+D:\Toan\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2._0_Input_Upload_single_code_PCM.Properties.Resources.resources
+D:\Toan\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM - Copy\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.exe.config
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM - Copy\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.exe
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM - Copy\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.pdb
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM - Copy\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.exe
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM - Copy\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.pdb
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM - Copy\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM - Copy\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2._0_Input_Upload_single_code_PCM.Form1.resources
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM - Copy\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2._0_Input_Upload_single_code_PCM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM - Copy\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\New folder (2)\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.exe.config
+C:\Users\Administrator\Desktop\New folder (2)\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.exe
+C:\Users\Administrator\Desktop\New folder (2)\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.pdb
+C:\Users\Administrator\Desktop\New folder (2)\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.exe
+C:\Users\Administrator\Desktop\New folder (2)\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.pdb
+C:\Users\Administrator\Desktop\New folder (2)\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder (2)\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2._0_Input_Upload_single_code_PCM.Form1.resources
+C:\Users\Administrator\Desktop\New folder (2)\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2._0_Input_Upload_single_code_PCM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder (2)\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.csproj.GenerateResource.Cache
+D:\Toan\230221\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.exe.config
+D:\Toan\230221\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.exe
+D:\Toan\230221\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.pdb
+D:\Toan\230221\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.exe
+D:\Toan\230221\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.pdb
+D:\Toan\230221\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.csprojResolveAssemblyReference.cache
+D:\Toan\230221\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2._0_Input_Upload_single_code_PCM.Form1.resources
+D:\Toan\230221\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2._0_Input_Upload_single_code_PCM.Properties.Resources.resources
+D:\Toan\230221\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM (Auto)\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.exe.config
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM (Auto)\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.exe
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM (Auto)\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.pdb
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM (Auto)\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM (Auto)\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2._0_Input_Upload_single_code_PCM.Form1.resources
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM (Auto)\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2._0_Input_Upload_single_code_PCM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM (Auto)\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM (Auto)\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.exe
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM (Auto)\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.pdb
+C:\Users\Administrator\Desktop\4. Gen2.0_Input_Upload single code PCM (Auto)\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.exe.config
+C:\Users\Administrator\Desktop\4. Gen2.0_Input_Upload single code PCM (Auto)\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.exe
+C:\Users\Administrator\Desktop\4. Gen2.0_Input_Upload single code PCM (Auto)\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.pdb
+C:\Users\Administrator\Desktop\4. Gen2.0_Input_Upload single code PCM (Auto)\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.exe
+C:\Users\Administrator\Desktop\4. Gen2.0_Input_Upload single code PCM (Auto)\Gen2.0_Input_Upload single code PCM\bin\Debug\Gen2.0_Input_Upload single code PCM.pdb
+C:\Users\Administrator\Desktop\4. Gen2.0_Input_Upload single code PCM (Auto)\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\4. Gen2.0_Input_Upload single code PCM (Auto)\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2._0_Input_Upload_single_code_PCM.Form1.resources
+C:\Users\Administrator\Desktop\4. Gen2.0_Input_Upload single code PCM (Auto)\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2._0_Input_Upload_single_code_PCM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\4. Gen2.0_Input_Upload single code PCM (Auto)\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2.0_Input_Upload single code PCM.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Program Dev\4. Gen2.0_Input_Upload single code PCM (Auto)\Gen2.0_Input_Upload single code PCM\obj\Debug\Gen2._0_Input_Upload_single_code_PCM.Admin.resources
